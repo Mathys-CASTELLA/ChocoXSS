@@ -340,12 +340,6 @@ Toute utilisation sur des systèmes tiers sans autorisation est illégale et con
 
 ---
 
-## Licence
-
-MIT — voir [LICENSE](LICENSE)
-
----
-
 <div align="center">
 
 *Développé par **Mathys CASTELLA** (Kinder-Bueno) — étudiant en cybersécurité*
