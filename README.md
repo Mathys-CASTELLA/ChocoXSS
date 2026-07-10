@@ -10,8 +10,6 @@
 **Scanner de vulnérabilités XSS — statique, réfléchi, stocké, DOM et aveugle**
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-387%20passing-brightgreen)]()
 
 *Développé par **Mathys CASTELLA** (Kinder-Bueno) — Projet portfolio pentest, complément de [ChocoScan](https://github.com/<votre-user>/chocoscan)*
 
